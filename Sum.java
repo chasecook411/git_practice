@@ -9,7 +9,7 @@ public class Sum
       sum += i;
     }
     System.out.println("Sum: " + sum);
-    
+
     for(int i = sum; i >=0; i--) {
       sum -= i;
     }
