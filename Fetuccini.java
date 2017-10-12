@@ -6,8 +6,12 @@ public class Fetuccini {
         this.numNoodles = 150;
         this.amountSauce = "two tons";
     }
-    
+
     public int getNumNoodles() {
         return this.numNoodles;
+    }
+
+    public void printNoodles() {
+        System.out.println("NOODLES!");
     }
 }
