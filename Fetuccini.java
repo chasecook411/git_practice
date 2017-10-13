@@ -13,5 +13,6 @@ public class Fetuccini {
 
     public void printNoodles() {
         System.out.println("NOODLES!");
+        System.out.println("Need more noodles.");
     }
 }
